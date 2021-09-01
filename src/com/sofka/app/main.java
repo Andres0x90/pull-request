@@ -6,7 +6,7 @@ public class main {
 
     public static void main(String[] args)
     {
-        menu.crear();;
+        menu.crear();
     }
 }
 class Operaciones{
