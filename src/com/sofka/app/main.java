@@ -2,8 +2,11 @@ package com.sofka.app;
 
 public class main {
 
-    public static void main(String[] args) {
+    private static Menu menu = new Menu();
 
+    public static void main(String[] args)
+    {
+        menu.crear();;
     }
 }
 class Operaciones{
